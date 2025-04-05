@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]:%(message)s:')
 
 
-project_name = "Swayam-TextSummarization"
+project_name = "Swayam_TextSummarization"
 
 list_of_files =[
 
